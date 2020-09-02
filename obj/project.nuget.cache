@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "n4AeuLGn214K9PdmhM5zIYyLItibaLTpHkGGmAhBG2yUr9R6sNVIEACpiRl/Hnj2SIpzmJPF+qlNF5musvdJyw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Adel\\source\\repos\\WebAPI3\\WebAPI3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adel\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
